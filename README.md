@@ -1,4 +1,10 @@
 MonthlyReport
 =============
+A web app for professors and students in a University.
 
-a website for registering students and staff, and registering their monthly co-curricular activities. A report can be generated according to the requirements and instructions of the administrator. The Monthly Report is automatically exported to MS Word. An e-mail reminder can be sent to the staff, at the discretion of the administrator. 
+# Report Generation
+A .doc report is generated based on the data collected, for any given time frame. Required categories in the report can be selected.
+
+# Email alerts
+Email alerts are sent to registered users to fill in their details on time.
+
